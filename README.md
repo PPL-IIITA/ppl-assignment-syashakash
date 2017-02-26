@@ -8,7 +8,11 @@ ppl-assignment-syashakash **(S Akash)**  created by GitHub Classroom
 ```
 C++
 ```
+###Requirements
+```
+C++ Complier must support c++11 or above.
 
+```
 ## How to run?
 >To run question 1
 ```
@@ -31,7 +35,7 @@ To run question 2
   g++ q2main.cpp header.a
   ./a.out
  ```
- ##Output files
+ ###Output files
  >For question 1 
   ```
   couples.txt
@@ -41,3 +45,10 @@ To run question 2
   mostcompatible.txt
   happiest.txt
 ```
+
+###Documentation and Class Diagram
+ >Documentation can be found in documentation.pdf while ClassDiagram.jpg shows the class diagram
+ 
+#### Tools Used
+Automatic documentation generation: Doxygen  
+Class diagram generation: Visual paradigm for UML
