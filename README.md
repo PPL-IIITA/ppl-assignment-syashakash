@@ -31,5 +31,9 @@ To run question 2
   g++ q2main.cpp header.a
   ./a.out
  ```
-  
-  
+ #Output files
+ >For question 1 
+  couples.txt
+ >For question 2
+  mostcompatible.txt
+  happiest.txt
