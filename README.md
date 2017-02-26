@@ -8,7 +8,28 @@ ppl-assignment-syashakash **(S Akash)**  created by GitHub Classroom
 ```
 C++
 ```
-```
 
 ## How to run?
-
+>To run question 1
+```
+To create a header files inclusion file
+  g++ -c boy.cpp
+  g++ -c girl.cpp
+  g++ -c couple.cpp
+  g++ -c essentialgift.cpp
+  g++ -c luxurygift.cpp
+  g++ -c utilitygift.cpp
+  ar rvs header.a boy.o girl.o couple.o essentialgift.o luxurygift.o utilitygift.o
+```
+```
+To execute question 1
+  g++ q1main.cpp header.a
+  ./a.out
+```
+```
+To run question 2
+  g++ q2main.cpp header.a
+  ./a.out
+ ```
+  
+  
