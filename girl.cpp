@@ -1,6 +1,8 @@
 #include "girl.h"
 #include <string>
-
+/*
+*	Definitions of member functions of Girl class
+*/
 Girl::Girl(std::string Name, std::string Type, int attr, int intelli, double m_c)
 {
 	name = Name;

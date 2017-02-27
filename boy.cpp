@@ -1,6 +1,8 @@
 #include "boy.h"
 #include<string>
-
+/*
+* Definition of member functions of Boy class
+*/
 Boy::Boy(std::string Name, std::string Type, int attr, int intelli, double bud)
 {
     name = Name;
@@ -10,6 +12,7 @@ Boy::Boy(std::string Name, std::string Type, int attr, int intelli, double bud)
     budget = bud;
     commited = false;
     happiness = 0;
+    min_attraction = 0;
 }
 
 int Boy::getAttractiveness()
@@ -52,13 +55,14 @@ std::string Boy::getType()
 
 int Boy::getMinAttraction()
 {
-	return minAttraction;
+	return min_attraction;
 }
 
 void Boy::setRelationshipStatus(bool x)
 {
     commited = x;
 }
+
 void Boy::setData(std::string a, std::string b, int at, int in, double paisa)
 {
 	name = a;

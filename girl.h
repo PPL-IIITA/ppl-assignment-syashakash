@@ -1,7 +1,9 @@
 #ifndef GIRL_H
 #define GIRL_H
 #include<string>
-
+/*
+*	Definition of class Girl
+*/
 class Girl {
     int attractiveness;
     int intelligence;
