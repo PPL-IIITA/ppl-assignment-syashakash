@@ -14,7 +14,7 @@ C++ Complier must support c++11 or above.
 
 ```
 ## How to run?
->To run any question folow the steps
+>To run any question follow the steps
 ```
 To create a header files inclusion file
   g++ -c boy.cpp
