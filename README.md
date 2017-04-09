@@ -10,7 +10,9 @@ C++
 ```
 ###Requirements
 ```
-C++ Complier must support c++11 or above.
+C++ Complier must support c++11 or above(g++ preferred).
+Linux OS
+
 
 ```
 ## How to run?
@@ -57,7 +59,7 @@ To run question 5
 ```
 
 ###Documentation and Class Diagram
- >Documentation can be found in documentation.pdf while ClassDiagram.jpg shows the class diagram
+ >Documentation can be found in documentation.pdf while ClassDiagram.jpg shows the class diagram in folder q1+q2 for Questions 1 and 2
  
 #### Tools Used
 Automatic documentation generation: Doxygen  
