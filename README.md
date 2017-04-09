@@ -1,6 +1,6 @@
 ppl-assignment-syashakash **(S Akash [IIT2015067])**  created by GitHub Classroom
 
-##About
+## About
 
 >This project is an assignment for the Principles of Programming Languages course. It emphasises on Object Oriented Design and has been written in C++. Currently it holds the solution of *Questions 1, 2, 4 and 5.*
 
@@ -8,7 +8,7 @@ ppl-assignment-syashakash **(S Akash [IIT2015067])**  created by GitHub Classroo
 ```
 C++
 ```
-###Requirements
+### Requirements
 ```
 C++ Complier must support c++11 or above(g++ preferred).
 Linux OS
@@ -51,7 +51,7 @@ To run question 5
   g++ q5main.cpp header.a
   ./a.out
  ```
- ###Output files
+ ### Output files
  >For question 1 
   ```
   couples.txt
@@ -62,8 +62,9 @@ To run question 5
   happiest.txt
 ```
 
-###Documentation and Class Diagram
- >Documentation can be found in documentation.pdf while ClassDiagram.jpg shows the class diagram in folder q1+q2 for Questions 1 and 2
+### Documentation and Class Diagram
+ >Documentation can be found in documentation.pdf in q1+q2 while ClassDiagram.jpg shows the class diagram in folder q1+q2 for Questions 1 and 2
+ > Documentation for entire project ca be found by visiting index.html in documentation folder
  
 #### Tools Used
 Automatic documentation generation: Doxygen  
