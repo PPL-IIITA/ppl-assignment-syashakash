@@ -29,21 +29,25 @@ To create a header files inclusion file
 ```
 ```
 To execute question 1
+  cd q1+q2
   g++ q1main.cpp header.a
   ./a.out
 ```
 ```
 To run question 2
+  cd q4
   g++ q2main.cpp header.a
   ./a.out
  ```
  ```
 To run question 4
+  cd q4
   g++ q4main.cpp header.a
   ./a.out
  ```
  ```
 To run question 5
+  cd q5
   g++ q5main.cpp header.a
   ./a.out
  ```
