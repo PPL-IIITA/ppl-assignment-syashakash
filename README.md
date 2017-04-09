@@ -35,6 +35,16 @@ To run question 2
   g++ q2main.cpp header.a
   ./a.out
  ```
+ ```
+To run question 4
+  g++ q4main.cpp header.a
+  ./a.out
+ ```
+ ```
+To run question 5
+  g++ q5main.cpp header.a
+  ./a.out
+ ```
  ###Output files
  >For question 1 
   ```
