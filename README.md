@@ -63,7 +63,7 @@ To run question 5
 ```
 
 ### Documentation and Class Diagram
- >Documentation can be found in documentation.pdf in q1+q2 while ClassDiagram.jpg shows the class diagram in folder q1+q2 for Questions 1 and 2
+ >Documentation can be found in documentation.pdf in q1+q2 while ClassDiagram.jpg shows the class diagram in folder q1+q2 for Questions 1 and 2.
  > Documentation for entire project ca be found by visiting index.html in documentation folder
  
 #### Tools Used
